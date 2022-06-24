@@ -49,6 +49,8 @@ module.exports = {
       },
     ],
 
+    'vue/no-undef-properties': ['error'],
+
     // 'vue/max-len': [
     //   'error',
     //   {
